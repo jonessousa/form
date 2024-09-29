@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(189, 189, 189);
+}
+
+h1{
+    text-align: center;
+}
+
+#envi{
+    cursor: pointer;
+    color: rgb(34, 146, 0);
+}
+
+#limp{
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+}
